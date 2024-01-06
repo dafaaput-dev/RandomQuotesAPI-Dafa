@@ -1,2 +1,2 @@
 # RandomQuotesAPI-Dafa
-Random Quote API from jacintoto create a Quote Generator and create a WhatsApp chat links
+Random Quote API from jacinto create a Quote Generator and create a WhatsApp chat links
